@@ -4,9 +4,10 @@
 [submodule "plugins/redmine_gtt"]
 	path = plugins/redmine_gtt
 	url = https://github.com/gtt-project/redmine_gtt.git
-[submodule "plugins/redmine_gtt_smash"]
-	path = plugins/redmine_gtt_smash
-	url = https://github.com/gtt-project/redmine_gtt_smash.git
 [submodule "plugins/redmine_gtt_print"]
 	path = plugins/redmine_gtt_print
 	url = https://github.com/gtt-project/redmine_gtt_print.git
+[submodule "public/themes/redmine_theme_georepublic"]
+	path = public/themes/redmine_theme_georepublic
+	url = git@github.com:Georepublic/redmine_theme_farend_bleuclair.git
+	branch = redmine4.2
