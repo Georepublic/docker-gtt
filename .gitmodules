@@ -7,7 +7,7 @@
 [submodule "plugins/redmine_gtt_print"]
 	path = plugins/redmine_gtt_print
 	url = https://github.com/gtt-project/redmine_gtt_print.git
-[submodule "public/themes/redmine_theme_georepublic"]
-	path = public/themes/redmine_theme_georepublic
+[submodule "public/themes/georepublic"]
+	path = public/themes/georepublic
 	url = git@github.com:Georepublic/redmine_theme_farend_bleuclair.git
 	branch = redmine4.2
