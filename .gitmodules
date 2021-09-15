@@ -11,3 +11,7 @@
 	path = public/themes/georepublic
 	url = git@github.com:Georepublic/redmine_theme_farend_bleuclair.git
 	branch = redmine4.2
+[submodule "public/themes/lobsta"]
+	path = public/themes/lobsta
+	url = git@github.com:Georepublic/redmine_theme_farend_bleuclair.git
+	branch = redmine4.2-lobsta
